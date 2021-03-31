@@ -1,0 +1,38 @@
+.container{
+    background-color: rgb(255, 220, 145);
+    width:60%;
+    height: auto;
+    margin: auto;
+}
+
+.box{
+    background-color:rgb(219, 51, 0);
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 2.5%;
+
+}
+
+.floatimg{
+    float: left;
+    width: 30%;
+    margin-top: 2.5%;
+}
+
+.p{
+    background-color:rgb(253, 219, 208);
+    width: 80px;
+    height: auto;
+    float: left;
+    margin: 2.5%;
+}
+
+.clear{
+    clear:both;
+}
+
+.box img{
+    width: 100%;
+    margin: 0% 20%;
+}
